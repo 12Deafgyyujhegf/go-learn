@@ -1,0 +1,15 @@
+# 忽略编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 忽略测试二进制
+*.test
+
+# 忽略输出目录
+*.out
+
+# 忽略 Go 工作区文件
+go.work.sum
